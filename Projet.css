@@ -1,0 +1,50 @@
+body{
+    background-color: white;
+    border: solid;
+    margin-top:50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    width: 500px;
+    justify-content: center;
+}
+.todo{
+    background-color: blue;
+    margin-bottom: 10px;
+    margin-right:0px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.in{
+    width:90% ;
+    padding: 5px 5px;
+    height: 33px;
+    border: solid ;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+.inp{
+   width:90% ;
+    padding: 5px 5px;
+    height: 33px;
+    border: solid ;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    margin-left: 5px; 
+}
+.but{
+    color: white;
+    background-color: black;
+    border: solid;
+    border-radius: 6px;
+    height: 30px;
+}
+.bute{
+    color:white ;
+    background-color: blue;
+    border: solid;
+}
+section{
+    width: 450;
+}
